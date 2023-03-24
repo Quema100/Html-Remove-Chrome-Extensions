@@ -1,6 +1,6 @@
 {
     "manifest_version" :  3,
-    "name" : "remover",
+    "name" : "remove",
     "description" :"extensions by Quema",
     "version" : "0.1",
     "content_scripts" : [
